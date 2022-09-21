@@ -41,5 +41,5 @@ const productDetails = (firstProduct, secondProduct) => [
     },
   },
 ];
-console.log(Object.entries(productDetails('Alcool gel', 'Máscara')).length)
+
 module.exports = productDetails;
