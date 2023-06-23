@@ -21,4 +21,5 @@ const createStudent = (nome) => {
     };
   return student;
 };
+
 module.exports = createStudent;
