@@ -9,9 +9,9 @@
 
 ```bash
 # Clone o projeto
-$ git clone git@github.com:wesleymktd/project-trybewarts.git
+$ git clone git@github.com:wesleymktd/project-js-unit-tests.git
 # Acesse
-$ cd ./project-tryunfo
+$ cd ./project-js-unit-tests
 # Instale as dependencias
 $ npm install
 #Comando úteis para rodar os testes 
